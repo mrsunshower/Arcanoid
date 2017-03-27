@@ -1,3 +1,5 @@
+package com.gamedevelop;
+
 /**
  * Класс для объекта "кирпич".
  */
